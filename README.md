@@ -27,10 +27,6 @@ título	imagem relacionada ao tema de produtividade, rotinas internas do setor b
 •	Conteúdo gerado via ChatGPT
 •	Imagens geradas via Copilot
 
-📚 Materiais
-•	Imagens utilizadas em assets
-•	ebook gerado durante as aulas em output
-
 🛠️ Instruções de execução
 Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei o power point como ferramenta de diagramação.
 
